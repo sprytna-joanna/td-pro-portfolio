@@ -703,6 +703,9 @@ and (max-width : 480px) {
     margin-top: 7px;
     font-size: 20px;
 }
+.margin-top{
+    margin-top: 0;
+}
 }
 
 /* Float media section
@@ -724,7 +727,7 @@ and (max-width : 480px) {
 }
 
 .contact-list div span {
-    color: black;
+    color: white;
     font-size: 20px;
 }
 
